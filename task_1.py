@@ -10,5 +10,4 @@ for m in lst:
     else:
         count_minutes += int(m[:-1])
         
-print(lst)
 print(count_minutes)
